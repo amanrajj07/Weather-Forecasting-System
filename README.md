@@ -84,7 +84,3 @@ Weather-Forecasting-System/
 - Add data logging and historical graphs.
 - Add a barometric pressure sensor.
 - Add a genuine forecasting method using historical data and a validated model/API.
-
-## Author
-
-Add your name, institute, diploma branch, and project year here before submitting.
